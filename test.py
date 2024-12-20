@@ -1,3 +1,4 @@
+"""Tests main.py"""
 import unittest
 import transform
 
