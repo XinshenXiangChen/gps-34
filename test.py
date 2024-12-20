@@ -2,7 +2,7 @@
 import unittest
 import transform
 
-
+"""Test class"""
 class TestStringMethods(unittest.TestCase):
 
     def test_is_upper(self):
